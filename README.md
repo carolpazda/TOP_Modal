@@ -5,4 +5,5 @@
 _Código feito para o Trabalho de Conclusão de Curso - Bacharelado em Engenharia Mecânica_.
 
 _Autoria: Verônica Caroline Herbst Pazda e Eduardo Lenz Cardoso_
+_Email para contato_: veronicacpazda@outlook.com
 
