@@ -26,3 +26,7 @@ onde,
   ||{\omega}||_{min} = \left( \sum_{i=1}^n \omega^{-P_d}_i  \right)^{-\frac{1}{P_d}}
 ```
 é a norma que considera o menor valor entre as $n$ primeiras frequências naturais da estrutura (armazenadas em ordem crescente em um vetor $\omega$). O volume da estrutura, função objetivo do presente problema, é dado pela soma das contribuição de cada uma das barras
+
+```math
+       V\left(\mathbf{x}\right)=\sum \limits_{i=1}^{n} \rho_i(\mathbf{x}) A_i L_i.
+```
