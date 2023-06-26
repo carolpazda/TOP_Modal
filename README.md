@@ -1,5 +1,11 @@
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/carolpazda/TOP_Modal" />
 
+<img alt="GitHub Issues" src="https://img.shields.io/github/issues/carolpazda/TOP_Modal" />
+
+<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/carolpazda/TOP_Modal" />
+
+<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/carolpazda/TOP_Modal" />
+
 # TOP_Modal
 
 ![Capa](https://github.com/carolpazda/TOP_Modal/assets/107930972/b1e196a8-e4e5-4d47-882b-45551257e5bc)
