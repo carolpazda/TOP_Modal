@@ -116,7 +116,7 @@ Além disso, retorna um arquivo de saída para o [Gmsh](https://gmsh.info/), o a
 
 
 
-Ficou alguma dúvida? Eu fiz um vídeo no YouTube explicando um pouco mais sobre o código e mostrando como você pode utilizá-lo, você pode dar uma conferida em:point_right: *Colocar assim que estiver pronto* :point_left: <br/>
+Ficou alguma dúvida? Eu fiz um vídeo no YouTube explicando um pouco mais sobre o código e mostrando como você pode utilizá-lo, você pode dar uma conferida em: point_right: *Colocar assim que estiver pronto* :point_left: <br/>
 
 Tu viu o vídeo e ficou com dúvidas ainda :eye_speech_bubble:? Então me contate pelo e-mail que deixei lá no início :point_up_2:! Grandes abraços! :wave: :wave:
 
