@@ -113,14 +113,12 @@ Ao clicarmos em uma visualização, geralmente não vamos ter muitas informaçõ
 
 ![gmsh-2](https://github.com/carolpazda/TOP_Modal/assets/107930972/0fd252e8-fc83-4076-8615-d148bb1abe7a)
 
+Você ainda pode alterar a cor das barras com o _Map_ e visualizar os modos da estrutura com o _Transfo_. E olha só que legal, estamos exportando as topologias e os modos de todas as iterações, então podemos ver de que forma a topologia está mudando ao longo das iterações! :ok_hand:
+
+![gmsh-3](https://github.com/carolpazda/TOP_Modal/assets/107930972/2c83600d-4f00-4462-8af6-eec4dfa92aa5)
 
 
-
-
-
-
-
-Ficou alguma dúvida? Eu fiz um vídeo no YouTube explicando um pouco mais sobre o código e mostrando como você pode utilizá-lo, você pode dar uma conferida em: point_right: *Colocar assim que estiver pronto* :point_left: <br/>
+Ficou alguma dúvida? Eu fiz um vídeo no YouTube explicando um pouco mais sobre o código e mostrando como você pode utilizá-lo, você pode dar uma conferida em :point_right: *Colocar assim que estiver pronto* :point_left: <br/>
 
 Tu viu o vídeo e ficou com dúvidas ainda :eye_speech_bubble:? Então me contate pelo e-mail que deixei lá no início :point_up_2:! Grandes abraços! :wave: :wave:
 
