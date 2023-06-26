@@ -39,10 +39,35 @@ using [WallE](https://github.com/CodeLenz/WallE.jl), [BMesh](https://github.com/
 using [DelimitedFiles](https://docs.julialang.org/en/v1/stdlib/DelimitedFiles/)
 
 ### Utilização do _main_
-Para entrar no _main_ do código você deve entrar com algum vetor _Float64_ inicial para as variáveis de projeto. O código posteriormente realiza a correção das varíaveis de entrada das variáveis de projeto, então não se preocupe com esse valor :grin:.
+Para entrar no _main_ do código você deve entrar com algum vetor _Float64_ inicial para as variáveis de projeto. O código posteriormente realiza a correção das varíaveis de entrada das variáveis de projeto, então não se preocupe com esse valor :grin:!
 
 ```
-   main(x0::Vector{Float64},verifica_derivada=false)
+main(x0::Vector{Float64},verifica_derivada=false)
 ```
+
+Após isso, você pode arbitrar para o código os demais parâmetros. Mas cuidado aí em, você pode arbitrar, mas tenha coerência com seus valores :upside_down_face:.
+
+```
+# Parâmetros que vamos utilizar na projeção
+β = 5.0
+η = 0.5
+ρ_min = 1E-3
+
+# Define o expoente de penalização da nossa regra de misturas
+penal = 3.0
+
+# Expoente da norma P (Torii)
+pd = 6.0
+    
+# Verifica consistência do expoente da norma
+pd >= 2.0 || throw("Expoente da norma deve ser maior ou igual a 2")
+           
+# Número de autovalores que vamos utilizar para calcular a norma
+x_autovalores = 6
+
+# Número de iterações externas no LA
+NITER = 10
+```
+
 
 
