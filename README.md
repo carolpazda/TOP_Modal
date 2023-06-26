@@ -14,7 +14,7 @@ _Email para contato_: veronicacpazda@outlook.com
 
 # CÓDIGO COMPUTACIONAL :computer:
 
-## O Problema
+## O Problema :pencil2:
 O objetivo do presente trabalho consiste no estudo da otimização topológica de treliças 2D e 3D considerando a resposta modal, trabalhando-se com um problema de minimização do volume com restrição de frequência (imposição de um valor mínimo para o menor autovalor). Para tal, o problema de otimização é definido por
 
 ```math
@@ -35,7 +35,7 @@ onde,
        V\left(\mathbf{x}\right)=\sum \limits_{i=1}^{n} \rho_i(\mathbf{x}) A_i L_i.
 ```
 
-## Entrada de dados - Código computacional
+## Entrada de dados - Código computacional :page_facing_up:
 Os pacotes utilizados são:
 
 using [LinearAlgebra](https://docs.julialang.org/en/v1/stdlib/LinearAlgebra/), [SparseArrays](https://docs.julialang.org/en/v1/stdlib/SparseArrays/), [Plots](https://docs.juliaplots.org/stable/), [ProgressMeter](https://docs.juliahub.com/ProgressMeter/3V8n6/1.3.1/), [StaticArrays](https://github.com/JuliaArrays/StaticArrays.jl) <br/>
@@ -103,7 +103,7 @@ Com relação à restrição, você pode modificar o $\alpha$ que é utilizado n
 w_esp = 0.9*omega[1]
 ```
 
-## Saída de dados e visualização
+## Saída de dados e visualização :grey_exclamation:
 O presente código computacional retorna os valores dos modos, norma, volume e das variáveis de projeto,
 ```
 return modos, norma, vol, x0
