@@ -21,3 +21,7 @@ O objetivo do presente trabalho consiste no estudo da otimização topológica d
         & \underline{\mathbf{x}} \leq \mathbf{x} \leq \bar{\mathbf{x}} & 
     \end{array} \right.
 ```
+onde,
+```math
+  ||{\omega}||_{min} = \left( \sum_{i=1}^n \omega^{-P_d}_i  \right)^{-\frac{1}{P_d}}
+```
