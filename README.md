@@ -100,4 +100,8 @@ w_esp = 0.9*omega[1]
 ```
 
 ### Saída de dados e visualização
-
+O presente código computacional retorna os valores dos modos, norma, volume e das variáveis de projeto,
+```
+return modos, norma, vol, x0
+```
+Além disso, retorna um arquivo de saída para o [Gmsh](https://gmsh.info/), o arquivo é gravado como _saida_modos.pos_. Te juro, o gmsh é muito legal para realizar a visualização das malhas!!! :speak_no_evil:. Vamos ver algumas dicas de como você pode visualizar suas topologias no Gmsh?
