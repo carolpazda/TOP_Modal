@@ -129,5 +129,5 @@ Tu viu o vídeo e ficou com dúvidas ainda :eye_speech_bubble:? Então me contat
 
 Grandes abraços! :wave: :wave:
 
-Atenciosamente, Verônica.
+Com carinho, Verônica.
 
