@@ -8,5 +8,4 @@ _Autoria: Verônica Caroline Herbst Pazda e Eduardo Lenz Cardoso_
 
 _Email para contato_: veronicacpazda@outlook.com
 
-
-_Explicação em execução_
+# CÓDIGO COMPUTACIONAL
