@@ -35,7 +35,7 @@ onde,
 Os pacotes utilizados são:
 
 using [LinearAlgebra](https://docs.julialang.org/en/v1/stdlib/LinearAlgebra/), [SparseArrays](https://docs.julialang.org/en/v1/stdlib/SparseArrays/), [Plots](https://docs.juliaplots.org/stable/), [ProgressMeter](https://docs.juliahub.com/ProgressMeter/3V8n6/1.3.1/), [StaticArrays](https://github.com/JuliaArrays/StaticArrays.jl) <br/>
-using [WallE](https://github.com/CodeLenz/WallE.jl), [BMesh](https://github.com/CodeLenz/BMesh.jl), [TMeshes](https://github.com/CodeLenz/TMeshes.jl), [LMesh] (https://github.com/CodeLenz/LMesh.jl), [LFEM](https://github.com/CodeLenz/LFEM.jl), [LinearSolve](https://github.com/SciML/LinearSolve.jl), [LFilter](https://github.com/CodeLenz/LFilter.jl)<br/>
+using [WallE](https://github.com/CodeLenz/WallE.jl), [BMesh](https://github.com/CodeLenz/BMesh.jl), [TMeshes](https://github.com/CodeLenz/TMeshes.jl), [LMesh](https://github.com/CodeLenz/LMesh.jl), [LFEM](https://github.com/CodeLenz/LFEM.jl), [LinearSolve](https://github.com/SciML/LinearSolve.jl), [LFilter](https://github.com/CodeLenz/LFilter.jl)<br/>
 using [DelimitedFiles](https://docs.julialang.org/en/v1/stdlib/DelimitedFiles/)
 
 
