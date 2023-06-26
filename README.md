@@ -38,8 +38,11 @@ using [LinearAlgebra](https://docs.julialang.org/en/v1/stdlib/LinearAlgebra/), [
 using [WallE](https://github.com/CodeLenz/WallE.jl), [BMesh](https://github.com/CodeLenz/BMesh.jl), [TMeshes](https://github.com/CodeLenz/TMeshes.jl), [LMesh](https://github.com/CodeLenz/LMesh.jl), [LFEM](https://github.com/CodeLenz/LFEM.jl), [LinearSolve](https://github.com/SciML/LinearSolve.jl), [LFilter](https://github.com/CodeLenz/LFilter.jl)<br/>
 using [DelimitedFiles](https://docs.julialang.org/en/v1/stdlib/DelimitedFiles/)
 
-### Divisão do código computacional
-O código computacional é dividido da seguinte forma:
+### Utilização do _main_
+Para entrar no _main_ do código você deve entrar com algum vetor _Float64_ inicial para as variáveis de projeto. O código posteriormente realiza a correção das varíaveis de entrada das variáveis de projeto, então não se preocupe com esse valor :grin:.
 
+```
+   main(x0::Vector{Float64},verifica_derivada=false)
+```
 
 
