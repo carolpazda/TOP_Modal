@@ -104,10 +104,10 @@ O presente código computacional retorna os valores dos modos, norma, volume e d
 ```
 return modos, norma, vol, x0
 ```
-Além disso, retorna um arquivo de saída para o [Gmsh](https://gmsh.info/), o arquivo é gravado como _saida_modos.pos_. Te juro, o gmsh é muito legal para realizar a visualização das malhas!!! :speak_no_evil:. Vamos ver algumas dicas de como você pode visualizar suas topologias no Gmsh?
+Além disso, retorna um arquivo de saída para o [Gmsh](https://gmsh.info/), o arquivo é gravado como _saida_modos.pos_. Te juro, o gmsh é muito legal para realizar a visualização das malhas!!! :speak_no_evil:. Vamos ver algumas dicas de como você pode visualizar suas topologias no Gmsh?<br/>
+Ao entrarmos no Gmsh, você pode abrir o arquivo clicando em _open_ e desabilitar todas as visualizações, para conseguirmos visualizar uma por vez. 
 
-
-
+![Gmsh-1](https://github.com/carolpazda/TOP_Modal/issues/2#issue-1774770350).
 
 
 
