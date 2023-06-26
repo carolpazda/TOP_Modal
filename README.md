@@ -99,3 +99,5 @@ Com relação à restrição, você pode modificar o $\alpha$ que é utilizado n
 w_esp = 0.9*omega[1]
 ```
 
+### Saída de dados e visualização
+
