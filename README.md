@@ -39,7 +39,7 @@ using [WallE](https://github.com/CodeLenz/WallE.jl), [BMesh](https://github.com/
 using [DelimitedFiles](https://docs.julialang.org/en/v1/stdlib/DelimitedFiles/)
 
 ### Utilização do _main_
-Para entrar no _main_ do código você deve entrar com algum vetor _Float64_ inicial para as variáveis de projeto. O código posteriormente realiza a correção das varíaveis de entrada das variáveis de projeto, então não se preocupe com esse valor :grin:!
+Para entrar no _main_ do código você deve entrar com algum vetor _Float64_ inicial para as variáveis de projeto. O código posteriormente realiza a correção dessas varíaveis de entrada, então não se preocupe com esse valor :grin:!
 
 ```
 main(x0::Vector{Float64},verifica_derivada=false)
