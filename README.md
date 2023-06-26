@@ -17,7 +17,7 @@ O objetivo do presente trabalho consiste no estudo da otimização topológica d
        \mathbf{P}_1 \left \lbrace \begin{array}{ccc}
        Min  &  V(\mathbf{{x}})&\\
         T.q. &  \left( \mathbf{K}-\omega^2 \mathbf{M} \right){\varphi} = \mathbf{0} & \\
-        & -\frac{||\bm{\omega}||_{min}}{\alpha \omega_{\text{min}}^{\text{full}}} + 1 \leq 0 & \\
+        & -\frac{||{\omega}||_{min}}{\alpha \omega_{\text{min}}^{\text{full}}} + 1 \leq 0 & \\
         & \underline{\mathbf{x}} \leq \mathbf{x} \leq \bar{\mathbf{x}} & 
     \end{array} \right.
 ```
