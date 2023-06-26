@@ -93,6 +93,9 @@ mesh.options[:Mass] = [55 1 1e3
                        63 2 1e3
                        63 3 1e3]
 ```
-
-
+Com relação à restrição, você pode modificar o $\alpha$ que é utilizado na restrição alterando a entrada
+```
+# Frequência especificada pelo usuário
+w_esp = 0.9*omega[1]
+```
 
