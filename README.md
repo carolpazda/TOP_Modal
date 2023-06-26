@@ -69,5 +69,11 @@ x_autovalores = 6
 NITER = 10
 ```
 
+Você pode inserir a malha de interesse no _main_ da seguinte forma
+
+```
+mesh = Tower3D()
+```
+Existem diversas malhas que podem ser utilizadas para teste, é só alterar essa entrada no _main_ com o nome da sua malha de interesse. Não esqueça que você também pode criar uma outra malha (caso for de seu interesse :blush:).
 
 
