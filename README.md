@@ -12,7 +12,7 @@ _Autoria: Verônica Caroline Herbst Pazda e Eduardo Lenz Cardoso_
 
 _Email para contato_: veronicacpazda@outlook.com
 
-# CÓDIGO COMPUTACIONAL
+# CÓDIGO COMPUTACIONAL :computer:
 
 ## O Problema
 O objetivo do presente trabalho consiste no estudo da otimização topológica de treliças 2D e 3D considerando a resposta modal, trabalhando-se com um problema de minimização do volume com restrição de frequência (imposição de um valor mínimo para o menor autovalor). Para tal, o problema de otimização é definido por
