@@ -74,6 +74,25 @@ Você pode inserir a malha de interesse no _main_ da seguinte forma
 ```
 mesh = Tower3D()
 ```
-Existem diversas malhas que podem ser utilizadas para teste, é só alterar essa entrada no _main_ com o nome da sua malha de interesse. Não esqueça que você também pode criar uma outra malha (caso for de seu interesse :blush:).
+Existem diversas malhas que podem ser utilizadas para teste, é só alterar essa entrada no _main_ com o nome da sua malha de interesse. Não esqueça que você também pode criar uma outra malha (caso for de seu interesse :blush:).<br/>
+
+Para inserção de massas concentradas você deve inserir primeiro o nó, depois a direção (sendo 1 -> x, 2 -> y e 3 -> z) e após isso o valor da massa utilizada, conforme o exemplo
+
+```
+# Adiciona massas em cima da estrutura
+mesh.options[:Mass] = [55 1 1e3
+                       55 2 1e3
+                       55 3 1e3
+                       57 1 1e3
+                       57 2 1e3
+                       57 3 1e3
+                       61 1 1e3
+                       61 2 1e3
+                       61 3 1e3
+                       63 1 1e3
+                       63 2 1e3
+                       63 3 1e3]
+```
+
 
 
