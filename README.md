@@ -38,5 +38,8 @@ using [LinearAlgebra](https://docs.julialang.org/en/v1/stdlib/LinearAlgebra/), [
 using [WallE](https://github.com/CodeLenz/WallE.jl), [BMesh](https://github.com/CodeLenz/BMesh.jl), [TMeshes](https://github.com/CodeLenz/TMeshes.jl), [LMesh](https://github.com/CodeLenz/LMesh.jl), [LFEM](https://github.com/CodeLenz/LFEM.jl), [LinearSolve](https://github.com/SciML/LinearSolve.jl), [LFilter](https://github.com/CodeLenz/LFilter.jl)<br/>
 using [DelimitedFiles](https://docs.julialang.org/en/v1/stdlib/DelimitedFiles/)
 
+### Divisão do código computacional
+O código computacional é dividido da seguinte forma:
+
 
 
