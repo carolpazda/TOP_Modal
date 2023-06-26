@@ -101,7 +101,7 @@ Com relação à restrição, você pode modificar o $\alpha$ que é utilizado n
 w_esp = 0.9*omega[1]
 ```
 
-### Saída de dados e visualização
+## Saída de dados e visualização
 O presente código computacional retorna os valores dos modos, norma, volume e das variáveis de projeto,
 ```
 return modos, norma, vol, x0
