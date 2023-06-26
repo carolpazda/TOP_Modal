@@ -109,6 +109,10 @@ Ao entrarmos no Gmsh, você pode abrir o arquivo clicando em _open_ e desabilita
 
 ![gmsh-1](https://github.com/carolpazda/TOP_Modal/assets/107930972/e47a6659-0034-4b2f-bddf-b0348cf7d056)
 
+Ao clicarmos em uma visualização, geralmente não vamos ter muitas informações da malha. Então, você pode clicar em _options_ para entrar nas configurações dessa visualização. Altere os parâmetros da visualização e puff... agora dá pra ver tudo, né? :eyes:
+
+![gmsh-2](https://github.com/carolpazda/TOP_Modal/assets/107930972/0fd252e8-fc83-4076-8615-d148bb1abe7a)
+
 
 
 
