@@ -35,7 +35,7 @@ onde,
 Os pacotes utilizados são:
 ```
 using LinearAlgebra, SparseArrays, Plots, ProgressMeter, StaticArrays
-using [WallE](https://github.com/CodeLenz/WallE.jl), [BMesh](https://github.com/CodeLenz/BMesh.jl), [TMeshes](https://github.com/CodeLenz/TMeshes.jl), [LMesh](https://github.com/CodeLenz/LMesh.jl), [LFEM](https://github.com/CodeLenz/LFEM.jl), LinearSolve, [LFilter](https://github.com/CodeLenz/LFilter.jl)
+using ![WallE](https://github.com/CodeLenz/WallE.jl), ![BMesh](https://github.com/CodeLenz/BMesh.jl), ![TMeshes](https://github.com/CodeLenz/TMeshes.jl), ![LMesh](https://github.com/CodeLenz/LMesh.jl), ![LFEM](https://github.com/CodeLenz/LFEM.jl), LinearSolve, ![LFilter](https://github.com/CodeLenz/LFilter.jl)
 using DelimitedFiles
 ```
 
